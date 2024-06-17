@@ -61,6 +61,7 @@ a{
     justify-content: flex-start;
     padding:20px;
     z-index: 999;
+   
 }
 .side-bar li {
     width: 100%;
@@ -69,6 +70,7 @@ a{
 .side-bar a{
     width: 100%;
     color: #1f2937;
+    margin-left: 40px;
 }
 
 
