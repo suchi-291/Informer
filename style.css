@@ -60,6 +60,7 @@ a{
     align-items: flex-start;
     justify-content: flex-start;
     padding:20px;
+    text-align: center;
     z-index: 999;
    
 }
@@ -70,7 +71,7 @@ a{
 .side-bar a{
     width: 100%;
     color: #1f2937;
-    margin-left: 40px;
+    
 }
 
 
